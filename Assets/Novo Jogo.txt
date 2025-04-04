@@ -1,0 +1,12 @@
+Jogo novo
+
+1) Adicionar moedas
+2) Dar valor a cada uma dela (bronze -1, prata-2 e etc)
+3) Criar menu que conta total
+4) Fazer boneco tocar nas moedas
+5) Fazer moedas sumirem com efeito
+6) Musica no mapa
+7) Adiciona mapa do deserto com ruinas no mapa
+8) Fazer um pequeno puzzle com as moedas
+9) Quando chega a X --> Acaba vc vence.
+10) Mostrar texto de vc venceu.
