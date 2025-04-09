@@ -19,8 +19,6 @@ Here’s what I learned and built in this pathway:
 
 ## Play It
 - **WebGL Build**: [https://play.unity.com/en/games/702fa66f-c3e1-41f0-8968-8c0efb3d5c83/goofy-developer-essentials](https://play.unity.com/en/games/702fa66f-c3e1-41f0-8968-8c0efb3d5c83/goofy-developer-essentials)
-- **Demo Video**: Watch my project in action below:  
-  <video src="https://raw.githubusercontent.com/andrealvesaraujo/Unity-Essentials-Pathway-Project/main/Movie_001.mp4" controls width="600"></video>
 
 ## How to Run Locally
 - **Requirements**: Unity 2022.3.47f1 and Unity Hub.
